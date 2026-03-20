@@ -3,4 +3,5 @@ editado en vscode
 
 finalizo #1 
 
-close#1
+
+Close #1
